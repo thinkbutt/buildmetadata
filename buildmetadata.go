@@ -2,6 +2,7 @@ package buildmetadata
 
 import (
 	"runtime/debug"
+	"strings"
 )
 
 // GitCommitSHA will read the `vcs.revision` metadata from the build info
