@@ -1,3 +1,3 @@
-module github.com/leighlondon/buildmetadata
+module github.com/thinkbutt/buildmetadata
 
 go 1.24.4
